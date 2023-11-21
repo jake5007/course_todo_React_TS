@@ -7,7 +7,7 @@ const CourseGoal = ({ id, title, onDelete, children }: CourseGoalProps) => {
         <h2>{title}</h2>
         {children}
       </div>
-      <button onClick={() => onDelete(id)}>Delete</button>
+      <button onClick={() => onDelete(id)}>Del</button>
     </article>
   );
 };
