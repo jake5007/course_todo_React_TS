@@ -1,5 +1,5 @@
 # Course Goals with React and TypeScript
-TODO list using local storage, React, and TypeScript
+TODO list for practice, using local storage, React, and TypeScript
 
 ### Screenshot
 
