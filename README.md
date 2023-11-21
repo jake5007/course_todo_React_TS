@@ -1,30 +1,15 @@
-# React + TypeScript + Vite
+# Course Goals with React and TypeScript
+TODO list using localstorage, React, and TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Screenshot
 
-Currently, two official plugins are available:
+![preview_desktop](https://github.com/jake5007/course_todo_React_TS/assets/44399233/9b0d832d-180a-4dae-b62b-4e001670e97b)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Preview
 
-## Expanding the ESLint configuration
+- Live Site URL: (https://course-todo-react-ts-jake5007.vercel.app/)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Built with
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- [React](https://reactjs.org/) - JS library
+- [Typescript](https://www.typescriptlang.org/) - For types
